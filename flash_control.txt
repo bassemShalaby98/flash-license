@@ -1,6 +1,7 @@
 FLASHCTL1
 # generated 2026-11-28
 #UPD_FREE|1.0|https://github.com/bassemShalaby98/flash-license/releases/latest/download/Flash_Reinforcement_Setup.zip|تحسين سرعة الاداة و جعلها اكثر استقرارا و تحسين امر التحويل الى ASD
+#UPD_PAID|2.0|500[|تسليح اللبشة
 5F96-7CB1-3A45-B6F1-5A0E|E|20261224|3624-6D95-75B1-CBB7-114F
 87D2-9E02-B9BB-2ED3-6723|E|20261224|2EC7-7FB8-0625-0AD5-3631
 B24D-92D0-1BFF-0AAE-C21E|E|99991231|2B1E-FA5B-4105-B4E8-4691
